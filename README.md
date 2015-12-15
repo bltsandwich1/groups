@@ -25,7 +25,6 @@ Creating a subgroup? [Fill this out](https://docs.google.com/forms/d/1D-Y770lR3G
 
 - [HH Artificial Intelligence](https://www.facebook.com/groups/778645865540833/)
 - [HH Blog Posts](https://www.facebook.com/groups/685608641508735/)
-- [HH Book Club](https://www.facebook.com/groups/1283193408435026/)
 - [HH Code Reviews](https://www.facebook.com/groups/hh.code.reviews/)
 - [HH Coding](https://www.facebook.com/groups/367114203440272/)
 - [HH College Apps](https://www.facebook.com/groups/hhcollegeapps/)
@@ -48,7 +47,6 @@ Creating a subgroup? [Fill this out](https://docs.google.com/forms/d/1D-Y770lR3G
 - [HH Health Tech](https://www.facebook.com/groups/372010919635390/)
 - [HH Homework](https://www.facebook.com/groups/HHhomework/)
 - [HH Housing](https://www.facebook.com/groups/HHHousing/)
-- [HH Information Security](https://www.facebook.com/groups/773334272725281/)
 - [HH Internet of Things](https://www.facebook.com/groups/358438357699910/)
 - [HH Internships](https://www.facebook.com/groups/HHinternships/)
 - [HH Interview Prep](https://www.facebook.com/groups/722062947858000/)
@@ -57,7 +55,6 @@ Creating a subgroup? [Fill this out](https://docs.google.com/forms/d/1D-Y770lR3G
 - [HH LGBT+](https://www.facebook.com/groups/hhlgbt/)
 - [HH Machine Learning](https://www.facebook.com/groups/hhmachinelearning/)
 - [HH Meta](https://www.facebook.com/groups/1443676762587979/)
-- [HH Music](https://www.facebook.com/groups/1562067487360179/)
 - [HH Networking](https://www.facebook.com/groups/hhnetworking/)
 - [HS Offers](https://www.facebook.com/groups/HSOffers/)
 - [HH Politics](https://www.facebook.com/groups/hhpolitics/)
@@ -109,11 +106,9 @@ Events and Regions
 
 Humor
 ----
-- [HH Hacker Problems](https://www.facebook.com/groups/hhproblems/)
 - [HH Hedgehog Hackers](https://www.facebook.com/groups/hedgehoghackers/)
 - [HH Snackathon Snackers](https://www.facebook.com/groups/697736156983878/)
 - [HH Stackathon Stackers](https://www.facebook.com/groups/345926665565678/)
-- [Real Singles of HH](https://www.facebook.com/groups/realsingleshhct/)
 
 Related
 ----
